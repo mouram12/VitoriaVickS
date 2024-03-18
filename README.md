@@ -1,9 +1,9 @@
 ### Olá Sejam Bem-Vindos! 👋
 
-- 🔭 Quality Assurance/QA Automação 🐞
+- 🔭 Quality Assurance/QA 🐞
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- 👯 23 anos
-- 📫 Contate -me no e-mail: vitoriabiasioli18@gmail.com
+- 👯 27 anos
+- 📫 Contate -me no e-mail: bruno.moura.santoss@gmail.com
 
 
 <div  align="center"> 
